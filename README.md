@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @YukiZensho
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Front end/ Js / CSS
-- 💞️ I’m looking to collaborate on ... Anything programming related
-- 📫 How to reach me ... Mail at contact@martha.link
+- Hi, I’m @YukiZensho
+
+Templates :(
 
 <!---
 YukiZensho/YukiZensho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
